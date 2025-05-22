@@ -18,7 +18,16 @@ Pages:
 
 ## Home
 
-Skills:
+Profile:
+
+> "Positive words from clients or colleagues."
+
+Projects:
+
+- [Project 1](https://salasa.id)
+
+
+My Tech Stacks:
 
 - Figma
 - Markdown
@@ -32,22 +41,7 @@ Skills:
 - Node.js
 - React
 
-Testimonials:
-
-> "Positive words from clients or colleagues."
-
-Projects:
-
-- [Project 1](https://salasa.id)
-- [Project 2](#)
-- [Project 3](#)
-- [Project 4](#)
-- [Project 5](#)
-- [Project 6](#)
-
-## Contact
-
-Social Media:
+## Sosial Media
 
 - [LinkedIn](https://linkedin.com/in/salasaakhr)
 - [GitHub](https://github.com/salasaa)
