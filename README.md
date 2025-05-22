@@ -1,4 +1,6 @@
-# salasa.id
+# salasa.id 
+
+ ![Home](salasa-logo-dark.png) 
 
 > Hi, this is my personal website.
 
@@ -52,4 +54,5 @@ Social Media:
 
 ## Screenshots
 
-![Home](home-dark.jpeg)
+- Home
+- ![Home](home-dark.jpeg)
