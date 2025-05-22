@@ -52,4 +52,4 @@ Social Media:
 
 ## Screenshots
 
-![Home](/assets/home-dark.jpeg)
+![Home](home-dark.jpeg)
